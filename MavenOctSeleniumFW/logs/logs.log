@@ -1,0 +1,161 @@
+[INFO ] 2023-10-31 23:28:05.287 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:28:12.579 [main] TestBase - closing browser
+[DEBUG] 2023-10-31 23:28:12.850 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-31 23:28:12.854 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-31 23:28:12.857 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-10-31 23:28:14.690 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:28:24.417 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:28:24.588 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:28:25.271 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:28:35.333 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:28:35.479 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:28:36.248 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:28:45.605 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:28:45.757 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:28:46.589 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:28:55.266 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:28:55.416 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:42:37.200 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:42:43.177 [main] TestBase - closing browser
+[DEBUG] 2023-10-31 23:42:43.434 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-31 23:42:43.442 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-31 23:42:43.445 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-10-31 23:42:45.340 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:42:54.118 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:42:54.299 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:42:55.052 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:43:04.344 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:43:04.510 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:43:05.242 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:43:14.007 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:43:14.147 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:43:15.081 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:43:24.757 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:43:24.927 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:46:54.159 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:46:59.841 [main] TestBase - closing browser
+[DEBUG] 2023-10-31 23:47:00.059 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-31 23:47:00.062 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-31 23:47:00.065 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-10-31 23:47:01.825 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:47:11.228 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:47:11.441 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:47:12.181 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:47:22.887 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:47:23.055 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:47:23.982 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:47:33.770 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:47:33.944 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:47:34.896 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:47:44.891 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:47:45.083 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:48:59.654 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:49:05.702 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-10-31 23:49:05.938 [main] TestBase - closing browser
+[DEBUG] 2023-10-31 23:49:06.184 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-31 23:49:06.189 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-31 23:49:06.191 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-10-31 23:49:07.964 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:49:35.806 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:49:36.123 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-10-31 23:49:36.289 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:49:37.042 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:49:46.255 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:49:46.563 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-10-31 23:49:46.724 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:49:47.471 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:49:56.563 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:49:56.883 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-10-31 23:49:57.036 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:49:57.846 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:50:07.012 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:50:07.283 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-10-31 23:50:07.428 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:51:46.278 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:51:51.969 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-10-31 23:51:52.319 [main] TestBase - closing browser
+[DEBUG] 2023-10-31 23:51:52.580 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-31 23:51:52.586 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-31 23:51:52.590 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-10-31 23:51:54.492 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:52:01.155 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-10-31 23:52:04.303 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:52:04.473 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:52:05.231 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:52:11.951 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-10-31 23:52:15.031 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:52:15.186 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:52:15.932 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:52:22.803 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-10-31 23:52:25.913 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:52:26.086 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:52:26.978 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:52:33.283 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-10-31 23:52:36.431 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:52:36.594 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:56:26.563 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:56:32.530 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-10-31 23:56:33.120 [main] TestBase - closing browser
+[DEBUG] 2023-10-31 23:56:33.440 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-10-31 23:56:33.450 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-10-31 23:56:33.455 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-10-31 23:56:36.089 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:56:42.564 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-10-31 23:56:45.676 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:56:45.828 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:56:46.744 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:56:54.640 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-10-31 23:56:57.827 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:56:57.971 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:56:58.748 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:57:05.316 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-10-31 23:57:08.544 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:57:08.720 [main] TestBase - closing browser
+[INFO ] 2023-10-31 23:57:09.543 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-10-31 23:57:16.728 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-10-31 23:57:19.887 [main] TestBase - register form is cleared
+[INFO ] 2023-10-31 23:57:20.035 [main] TestBase - closing browser
+[INFO ] 2023-11-02 23:14:19.123 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-11-02 23:14:24.963 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-02 23:14:25.344 [main] TestBase - closing browser
+[DEBUG] 2023-11-02 23:14:25.500 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-02 23:14:25.506 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-02 23:14:25.508 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-02 23:14:26.945 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-11-02 23:14:34.974 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-02 23:14:38.070 [main] TestBase - register form is cleared
+[INFO ] 2023-11-02 23:14:38.199 [main] TestBase - closing browser
+[INFO ] 2023-11-02 23:14:39.157 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-11-02 23:14:48.374 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-02 23:14:51.481 [main] TestBase - register form is cleared
+[INFO ] 2023-11-02 23:14:51.628 [main] TestBase - closing browser
+[INFO ] 2023-11-02 23:14:52.402 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-11-02 23:14:58.631 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-02 23:15:01.693 [main] TestBase - register form is cleared
+[INFO ] 2023-11-02 23:15:01.804 [main] TestBase - closing browser
+[INFO ] 2023-11-02 23:15:02.785 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-11-02 23:15:08.944 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-02 23:15:12.129 [main] TestBase - register form is cleared
+[INFO ] 2023-11-02 23:15:12.237 [main] TestBase - closing browser
+[INFO ] 2023-11-02 23:23:15.252 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-11-02 23:23:21.080 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-02 23:23:21.551 [main] TestBase - closing browser
+[DEBUG] 2023-11-02 23:23:21.844 [main] PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+[DEBUG] 2023-11-02 23:23:21.851 [main] PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+[DEBUG] 2023-11-02 23:23:21.858 [main] PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+[INFO ] 2023-11-02 23:23:24.053 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-11-02 23:23:33.459 [main] TestBase - register form is cleared
+[INFO ] 2023-11-02 23:23:33.655 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-02 23:23:33.791 [main] TestBase - closing browser
+[INFO ] 2023-11-02 23:23:35.427 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-11-02 23:23:47.618 [main] TestBase - register form is cleared
+[INFO ] 2023-11-02 23:23:47.730 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-02 23:23:47.895 [main] TestBase - closing browser
+[INFO ] 2023-11-02 23:23:49.335 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-11-02 23:23:59.159 [main] TestBase - register form is cleared
+[INFO ] 2023-11-02 23:23:59.313 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-02 23:23:59.449 [main] TestBase - closing browser
+[INFO ] 2023-11-02 23:24:00.563 [main] TestBase - Chrome browser launched successfully
+[INFO ] 2023-11-02 23:24:10.731 [main] TestBase - register form is cleared
+[INFO ] 2023-11-02 23:24:10.924 [main] TestBase - Screenshot taken successfully
+[INFO ] 2023-11-02 23:24:11.293 [main] TestBase - closing browser

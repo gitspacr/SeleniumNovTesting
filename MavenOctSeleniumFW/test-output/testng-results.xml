@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-10-31T18:21:44Z" name="Default suite" finished-at="2023-10-31T18:22:36Z" duration-ms="52132">
+    <groups>
+    </groups>
+    <test started-at="2023-10-31T18:21:44Z" name="Default test" finished-at="2023-10-31T18:22:36Z" duration-ms="52132">
+      <class name="com.qa.testlayer.TC_001_ValidateRegisterForm">
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.qa.testlayer.TC_001_ValidateRegisterForm@57a78e3]" started-at="2023-10-31T18:21:44Z" name="browserLaunch" finished-at="2023-10-31T18:21:51Z" duration-ms="6891" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="validateLinkTextinBC()[pri:0, instance:com.qa.testlayer.TC_001_ValidateRegisterForm@57a78e3]" started-at="2023-10-31T18:21:51Z" name="validateLinkTextinBC" finished-at="2023-10-31T18:21:52Z" duration-ms="742" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateLinkTextinBC -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.testlayer.TC_001_ValidateRegisterForm@57a78e3]" started-at="2023-10-31T18:21:52Z" name="closeBrowser" finished-at="2023-10-31T18:21:52Z" duration-ms="203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.qa.testlayer.TC_001_ValidateRegisterForm@57a78e3]" started-at="2023-10-31T18:21:53Z" name="browserLaunch" finished-at="2023-10-31T18:21:59Z" duration-ms="6385" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="validateRegisterForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testlayer.TC_001_ValidateRegisterForm@57a78e3]" started-at="2023-10-31T18:21:59Z" name="validateRegisterForm" data-provider="passDataFromExcel" finished-at="2023-10-31T18:22:04Z" duration-ms="4311" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[John]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Peter]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jp@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[john123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterForm -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.testlayer.TC_001_ValidateRegisterForm@57a78e3]" started-at="2023-10-31T18:22:04Z" name="closeBrowser" finished-at="2023-10-31T18:22:04Z" duration-ms="168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.qa.testlayer.TC_001_ValidateRegisterForm@57a78e3]" started-at="2023-10-31T18:22:04Z" name="browserLaunch" finished-at="2023-10-31T18:22:10Z" duration-ms="6287" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="validateRegisterForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testlayer.TC_001_ValidateRegisterForm@57a78e3]" started-at="2023-10-31T18:22:10Z" name="validateRegisterForm" data-provider="passDataFromExcel" finished-at="2023-10-31T18:22:15Z" duration-ms="4271" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Sam]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Son]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ss@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ss123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterForm -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.testlayer.TC_001_ValidateRegisterForm@57a78e3]" started-at="2023-10-31T18:22:15Z" name="closeBrowser" finished-at="2023-10-31T18:22:15Z" duration-ms="153" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.qa.testlayer.TC_001_ValidateRegisterForm@57a78e3]" started-at="2023-10-31T18:22:15Z" name="browserLaunch" finished-at="2023-10-31T18:22:21Z" duration-ms="6154" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="validateRegisterForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testlayer.TC_001_ValidateRegisterForm@57a78e3]" started-at="2023-10-31T18:22:21Z" name="validateRegisterForm" data-provider="passDataFromExcel" finished-at="2023-10-31T18:22:25Z" duration-ms="4572" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jack]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jill]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jj@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jj123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterForm -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.testlayer.TC_001_ValidateRegisterForm@57a78e3]" started-at="2023-10-31T18:22:25Z" name="closeBrowser" finished-at="2023-10-31T18:22:26Z" duration-ms="174" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method is-config="true" signature="browserLaunch()[pri:0, instance:com.qa.testlayer.TC_001_ValidateRegisterForm@57a78e3]" started-at="2023-10-31T18:22:26Z" name="browserLaunch" finished-at="2023-10-31T18:22:32Z" duration-ms="6108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- browserLaunch -->
+        <test-method signature="validateRegisterForm(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.qa.testlayer.TC_001_ValidateRegisterForm@57a78e3]" started-at="2023-10-31T18:22:32Z" name="validateRegisterForm" data-provider="passDataFromExcel" finished-at="2023-10-31T18:22:36Z" duration-ms="4236" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Jim]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Tom]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[jt@test.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jt123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegisterForm -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:com.qa.testlayer.TC_001_ValidateRegisterForm@57a78e3]" started-at="2023-10-31T18:22:36Z" name="closeBrowser" finished-at="2023-10-31T18:22:36Z" duration-ms="162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.qa.testlayer.TC_001_ValidateRegisterForm -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

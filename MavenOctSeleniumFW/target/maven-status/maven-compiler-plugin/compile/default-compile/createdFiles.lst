@@ -1,0 +1,6 @@
+com\qa\testdata\DataDriven.class
+com\qa\pageLayer\XPathPracticePage.class
+com\qa\reporting\ListernerReport.class
+com\qa\reporting\ReadConfigFile.class
+com\qa\TestBase\TestBase.class
+com\qa\pageLayer\basiccontrols.class
